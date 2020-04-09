@@ -1,6 +1,6 @@
 import requests, sys, re
 from concurrent.futures import ThreadPoolExecutor
-
+#MAURECODELU?
 
 def gas(no):
         s = requests.Session()
